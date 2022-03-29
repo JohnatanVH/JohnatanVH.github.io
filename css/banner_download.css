@@ -1,0 +1,30 @@
+#banner_download {
+    width: 250px;
+    height: 60px;
+    margin: auto;  
+    margin-top: 25px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px rgb(33, 33, 33);
+    background-image: radial-gradient(circle at 50% 50%, #785b55 0, #69524f 16.67%, #584847 33.33%, #453d3d 50%, #333333 66.67%, #222929 83.33%, #14211f 100%);
+    max-width: 250px;
+}
+
+#banner_download a { 
+    
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    
+}
+#banner_download h3 {
+    margin-top: 20px;
+    margin-right: 30px;
+    color: #d3c7c7;
+}
+#banner_download img {
+    width: 45px;
+    height: 45px;
+    margin: 10px;
+    
+}
